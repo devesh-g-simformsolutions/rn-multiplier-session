@@ -1,17 +1,17 @@
-# react-native-rn-multiplier-session
+# rn-session-multiplier-demo
 
 This is just a demo library
 
 ## Installation
 
 ```sh
-npm install react-native-rn-multiplier-session
+npm install rn-session-multiplier-demo
 ```
 
 ## Usage
 
 ```js
-import { multiply } from "react-native-rn-multiplier-session";
+import { multiply } from 'rn-session-multiplier-demo';
 
 // ...
 

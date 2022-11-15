@@ -1,6 +1,6 @@
 {
-  "name": "react-native-rn-multiplier-session-example",
-  "description": "Example app for react-native-rn-multiplier-session",
+  "name": "rn-session-multiplier-demo-example",
+  "description": "Example app for rn-session-multiplier-demo",
   "version": "0.0.1",
   "private": true,
   "scripts": {
